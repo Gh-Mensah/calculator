@@ -1,4 +1,82 @@
-#commandCont{
-    border-top-left-radius:6.25em;
-    border-top-right-radius: 6.25em;
+#layerTwo{
+    height: 56%;
+    background-color: #aeccee;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px ;
+}
+#layerTwoi{
+    height: 56%;
+    background-color: #aeccee;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px ;
+}
+
+#plusHi{
+    background-color: #cbe0fb;
+    color: #005da9;
+    font-size: 32px;
+   
+}
+
+#test{
+    height: 67%;
+}
+
+
+#operaColor{
+    background-color: #cbe0fb;
+    color: #005da9;
+    font-size: 112.50%;
+}
+
+#operaColorII{
+    background-color: #005ea4;
+    font-size: 112.50%;
+}
+
+#varTxt{
+    color: #005da9;
+    font-size: 100%;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+#varTxt:hover{
+    opacity: 0.5;
+}
+
+
+#operaColorsm{
+    background-color: #cbe0fb;
+    color: #005da9;
+    display:block;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 50%;
+    font-size: 3.3vw;
+}
+
+#operaColorIIsm{
+    background-color: #005ea4;
+    display:block;
+    width: 12vw;
+    height: 6vh;
+    border-radius: 50%;
+    font-size: 3.3vw;
+}
+
+#varTxtsm{
+    color: #005da9;
+    font-size: 16px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+#varTxtsm:hover{
+    opacity: 0.5;
+}
+
+#conPlus{
+    height: 100%;
+    margin: 0;
 }

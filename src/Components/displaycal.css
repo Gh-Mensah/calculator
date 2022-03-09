@@ -1,0 +1,57 @@
+#layerOne{
+    height: 44%;
+    background-image: linear-gradient(-127.56deg,#bfdaf1 , #cbdef1);
+    
+}
+
+#calcomm{
+    height: 80%;
+}
+
+#calsolu{
+    height: 20%;
+    
+}
+
+#CalcVal{
+    height: 13vh;
+    font-size: 4vw;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    color: #005ea4;
+    scrollbar-color:  #cbdef1  #cbdef1;
+    scrollbar-width:none;
+}
+
+#solu{
+    font-size: 3vw;
+    color: #005da9;
+}
+
+#braVal{
+    color: #005da9;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  background-image: linear-gradient(-127.56deg,#bfdaf1 , #cbdef1);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background-image: linear-gradient(-127.56deg,#bfdaf1 , #cbdef1);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(-127.56deg,#bfdaf1 , #cbdef1);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background-image: linear-gradient(-127.56deg,#bfdaf1 , #cbdef1);
+}
+::-webkit-scrollbar-track-piece{
+    background-color:#bfdaf1
+}
