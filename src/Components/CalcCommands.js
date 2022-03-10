@@ -5727,6 +5727,7 @@ AllClear = ()=>{
   ()=>{
     this.props.commandValue(this.state.userInput)
     this.props.testValue("")
+    this.props.flipbra(this.state.userBracket)
   }
   )
 }
