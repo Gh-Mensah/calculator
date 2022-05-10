@@ -1,4 +1,4 @@
-A simple calculator app
+A simple calculator app using ReactJS
 
 
 You can view it here
